@@ -20,7 +20,7 @@ function draw(){
     fill("#c7e312");
     stroke("#d512e3");
     strokeWeight(10);
-    square(noseX,noseY,difference);
+    text("Students must wear proper uniform");
 }
 
 function modelLoaded(){
